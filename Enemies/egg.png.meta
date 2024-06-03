@@ -1,12 +1,10 @@
 fileFormatVersion: 2
-guid: 88c98bbf5d6d741af92d99072c326b69
-timeCreated: 1626102373
+guid: 1e413a0c6e25e4399bb9ca5eb35c7fa8
+timeCreated: 1625943422
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: spider_0
-    21300002: spider_1
-    21300004: spider_2
+    21300000: egg_0
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -68,45 +66,26 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spider_0
+      name: egg_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 84
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: spider_1
-      rect:
-        serializedVersion: 2
-        x: 87
-        y: 0
-        width: 78
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: spider_2
-      rect:
-        serializedVersion: 2
-        x: 180
-        y: 0
-        width: 64
-        height: 59
+        y: 1
+        width: 31
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
